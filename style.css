@@ -1,0 +1,68 @@
+img {
+    height: 300px;
+    image-rendering: optimizeQuality;
+    
+  }
+  
+  body {
+    width: 800px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  .headline {
+    color: rgba(24, 18, 209, 0.579);
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .subheader {
+    font-size: 18px;
+    text-align: left;
+    font-weight:inherit;
+    font-style:normal;
+    color: rgb(50, 8, 189);
+  }
+  
+  .intro {
+    font-style: normal;
+    text-decoration:aqua;
+  }
+  
+  .main-text,
+  #text-more {
+    text-indent: 10px;
+    font-size: 16px;
+  }
+  
+  .bald-idea {
+    font: 1em sans-serif;
+    font-size: 18px;
+    text-decoration-style: double;
+    font-weight:bold;
+    color: rgb(50, 8, 189);
+  }
+  
+  #endtext {
+    font-size: 16px;
+    font-style: italic;
+    color: darkblue;
+    background-color: beige;
+    border: 1px solid blue;
+  }
+ .headline {
+    color: #10024f;
+ }  
+ h3{
+    color: #646363;
+    font-size: small;
+ } 
+ .footer-element{
+    color: #5a5959;
+    font-style: italic;
+ }
+ #idea3{
+    font-size: 16px;
+    font-style: italic;
+    color: cadetblue;
+ }
+ 
